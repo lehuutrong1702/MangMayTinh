@@ -1,0 +1,44 @@
+{
+    "Account": [
+        {
+            "user": "thanh",
+            "pass": "288"
+        },
+        {
+            "user": "thanhnguyen",
+            "pass": "2888"
+        },
+        {
+            "user": "tuan thanh",
+            "pass": "thanh"
+        },
+        {
+            "user": "tuannn",
+            "pass": "zedma"
+        },
+        {
+            "user": "ABCDEF",
+            "pass": "ABCDEF"
+        },
+        {
+            "user": "LHTLHT",
+            "pass": "123456"
+        },
+        {
+            "user": "ngoctram",
+            "pass": "hello123"
+        },
+        {
+            "user": "trongle",
+            "pass": "1234"
+        },
+        {
+            "user": "tronggg",
+            "pass": "1234"
+        },
+        {
+            "user": "qwerqwer",
+            "pass": "1234"
+        }
+    ]
+}
